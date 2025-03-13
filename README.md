@@ -13,9 +13,9 @@ This command installs the webdriver-manager Python package, which is used to aut
  pip install webdriver_manager 
 
 Benefits of webdriver-manager
-✅ No need to manually download or update drivers
-✅ Works for multiple browsers (Chrome, Firefox, Edge, IE)
-✅ Reduces setup time for Selenium WebDriver
+1. ✅ No need to manually download or update drivers
+2. ✅ Works for multiple browsers (Chrome, Firefox, Edge, IE)
+3. ✅ Reduces setup time for Selenium WebDriver
 
 ### **Step 3: Test Selenium with ChromeDriver **
 Create a new Python file in PyCharm and add this code:
