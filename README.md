@@ -2,7 +2,6 @@
 
 To install Selenium using PyCharm, follow these step-by-step instructions:
 
-
 ### **Step 1: Install Selenium**
 1. In the terminal, type the following command and press **Enter**:
    pip install selenium
@@ -19,7 +18,7 @@ Benefits of webdriver-manager
 
 ### **Step 3: Test Selenium with ChromeDriver **
 Create a new Python file in PyCharm and add this code:
-   ```python
+   
 import time
 
 from selenium import webdriver
@@ -27,3 +26,12 @@ from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
   
+# Note
+## Git Command for an existing Git repository
+
+* git add .
+* git commit -m "Update code"
+* git push origin main
+
+
+
